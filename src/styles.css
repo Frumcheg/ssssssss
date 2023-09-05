@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  font-size: 36px;
+  text-align: left;
+}
+
+.input {
+  margin-bottom: 24px;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 12px;
+}
